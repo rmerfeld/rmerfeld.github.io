@@ -4,13 +4,28 @@
 @import "./mixins";
 @import "~font-awesome/scss/font-awesome";
 @import "~bootstrap/scss/bootstrap";
+
+
+h1, p {
+  margin-top: 2rem;
+}
+
 .img-about-me {
   height: auto;
-  max-width: 60%;
+  max-width: 40%;
 }
 
 @media (min-width: 576px) {
   .img-about-me {
-    max-width: 576*0.6px;
+    max-width: 576*0.4px;
   }
+}
+
+.navbar-toggler-icon {
+  width: 1em;
+  height: 1em;
+}
+
+.navbar-toggler {
+  border: none;
 }
