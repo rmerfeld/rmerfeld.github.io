@@ -24,31 +24,39 @@ disqusShortname = "rmerfeld"
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    since = 2018
+    since = 2019
 
     enableTwemoji = true
 
     colorScheme = "auto"
     hidecolorschemetoggle = false
 
-#   math = true
-#   custom_css = []
+    math = true
+    custom_css = []
 
 [[params.social]]
-    name = "Github"
-    icon = "fab fa-github fa-sm"
-    weight = 1
-    url = "https://github.com/rmerfeld/"
+  name = "Github"
+  icon = "fa fa-2x fa-github"
+  weight = 1
+  url = "https://github.com/rmerfeld/"
+
 [[params.social]]
-    name = "Instagram"
-    icon = "fab fa-instagram fa-sm"
-    weight = 2
-    url = "https://www.instagram.com/merfeldo/"
+  name = "LinkedIn"
+  icon = "fa fa-2x fa-linkedin"
+  weight = 2
+  url = "https://www.linkedin.com/in/reinhard-merfeld-0467b21b3/"
+
 [[params.social]]
-    name = "Email"
-    icon = "fas fa-envelope fa-sm"
-    weight = 3
-    url = "mailto:reinhard@merfeld.info"
+  name = "Instagram"
+  icon = "fa fa-2x fa-instagram"
+  weight = 3
+  url = "https://www.instagram.com/merfeldo/"
+
+[[params.social]]
+  name = "Email"
+  icon = "fa fa-2x fa-envelope"
+  weight = 4
+  url = "mailto:reinhard@merfeld.info"
 
 # Menu links
 [[menu.main]]
