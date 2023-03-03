@@ -1,4 +1,4 @@
-baseURL = "https://merfeld.info/"
+baseURL = "https://rmerfeld.github.io"
 title = "Reinhard Merfeld"
 theme = "hugo-coder"
 languagecode = "en"
