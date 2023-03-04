@@ -72,6 +72,6 @@ disqusShortname = "rmerfeld"
   weight = 3
   url = "projects/"
 [[menu.main]]
-  name = "Conatct me"
+  name = "Contact me"
   weight = 5
   url = "contact/"
