@@ -19,7 +19,7 @@ disqusShortname = "rmerfeld"
     info = "Senior Full Stack Developer"
     description = "Reinhard Merfeld's personal website"
     keywords = "blog,developer,personal"
-    avatarurl = "https://avatars.githubusercontent.com/u/38454074?v=4"
+    avatarurl = "/images/avatar.jpeg"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
@@ -62,8 +62,16 @@ disqusShortname = "rmerfeld"
 [[menu.main]]
     name = "Blog"
     weight = 1
-    url  = "/blog/"
+    url  = "blog/"
 [[menu.main]]
     name = "About"
     weight = 2
-    url = "/about/"
+    url = "about/"
+[[menu.main]]
+  name = "Projects"
+  weight = 3
+  url = "projects/"
+[[menu.main]]
+  name = "Conatct me"
+  weight = 5
+  url = "contact/"
